@@ -31,9 +31,9 @@ h4 {
   background-size: cover;
 }
 
-h4.amiable(
+h4.amiable{
   background: linear-gradient(to right, #44cc66, #FFF);
-  )
+}
 
 .indifferent {
   background-color: #dddd22;
