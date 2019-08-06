@@ -46,6 +46,7 @@ h4 {
 
 .small, .med, .large {
   border: 1px solid darkgrey;
+  box-sizing: border-box;
   
 }
 
